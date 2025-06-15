@@ -1,2 +1,4 @@
-obj.setName("Ritik Sinha");
-        // obj.setAge(24);
+public int add(int a,int b)
+    {
+        return a+b+1;
+    }
